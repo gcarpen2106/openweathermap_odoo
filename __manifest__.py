@@ -3,7 +3,7 @@
  'version': '1.0',
  'summary': 'Integración con la API de OpenWeatherMap',
  'description': 'Obtención de datos meteorológicos en tiempo real.',
- 'author': 'Paco Navas',
+ 'author': 'Gonzalo Carretero',
  'category': 'Tools',
  'depends': ['base'],
  'data': [
